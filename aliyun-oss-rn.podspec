@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author        = { 'albertluo' => 'luozhang002@126.com' }
   s.license       = package['license']
   s.homepage      = package['homepage']
-  s.source        = { :git => 'https://github.com/aliyun/aliyun-oss-react-native.git' }
+  s.source        = { :git => 'https://github.com/kongwutw/mine-aliyun-oss-rn.git' }
   s.platform      = :ios, '8.0'
 
   s.source_files  = 'ios/*.{h,m}'
