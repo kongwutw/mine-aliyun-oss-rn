@@ -1,51 +1,25 @@
 {
-  "_from": "aliyun-oss-rn",
-  "_id": "aliyun-oss-rn@1.0.1",
-  "_inBundle": false,
-  "_integrity": "sha1-nAu7VjH2X8sjU4E4TgRz3XQkkYA=",
-  "_location": "/aliyun-oss-rn",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "aliyun-oss-rn",
-    "name": "aliyun-oss-rn",
-    "escapedName": "aliyun-oss-rn",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npm.taobao.org/aliyun-oss-rn/download/aliyun-oss-rn-1.0.1.tgz",
-  "_shasum": "9c0bbb5631f65fcb235381384e0473dd74249180",
-  "_spec": "aliyun-oss-rn",
-  "_where": "/Users/xian2/yb/fe-rn-t",
+
   "bugs": {
-    "url": "https://github.com/Bijiabo/aliyun-oss-react-native/issues"
+    "url": "https://github.com/kongwutw/mine-aliyun-oss-rn/issues"
   },
   "bundleDependencies": false,
   "deprecated": false,
-  "description": "真正可用的阿里云 OSS 库，阿里官方的不靠谱的。",
-  "homepage": "https://github.com/aliyun/aliyun-oss-react-native/blob/master/README.md",
+  "description": "在工大人中使用的阿里云 OSS 库，阿里官方的已经不维护。",
+  "homepage": "https://github.com/kongwutw/mine-aliyun-oss-rn/blob/master/README.md",
   "keywords": [
     "oss",
     "react-native",
     "aliyun-sdk",
     "aliyun-oss",
-    "aliyun-oss-react-native"
+    "mine-aliyun-oss-rn"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "aliyun-oss-rn",
+  "name": "mine-aliyun-oss-rn",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bijiabo/aliyun-oss-react-native.git"
+    "url": "git+https://github.com/kongwutw/mine-aliyun-oss-rn.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
